@@ -1,9 +1,9 @@
 # Reflections on Dance, Mobility, and Bodytracking
 ![Menschel_Exhibition073 (1)](https://user-images.githubusercontent.com/71452451/231338377-55c37385-0db7-4615-b4f7-b393ede7495b.jpg)
 
-This project came out of a desire to explore the posibilities of interactivity between dancers and bodytracking technology in performance and reflect on the intersection of dance, body tracking technology, and mobility. We investigate current use of technology for dance performances resulting in an interactive installation which connected the Kinect body tracking and generative visual graphics using Processing, a graphical library and programming language. The project exposed some limitations in access to hardware components of body tracking such as the Kinect camera. This work was supported by the Cooper Union's Benjamin Menschel Fellowship Program.
+This project came out of a desire to explore the overlap between dance, bodytracking technology, and mobility. We investigated the current use of technology in performance and storytelling, which resulted in an interactive installation that connected bodytracking and generative visual graphics. This work was supported by the Cooper Union's Benjamin Menschel Fellowship Program.
 
-On this repo, you will find documentation of this projects exhibition at the Lubalin Gallery as part of the Menschel Fellowship exhibit and in the Civic Projects Lab as part of miliLab's Digital Movement exhibit. You will also find set up instructions and resources such that you can build similar projects which utilize Kinect's body-tracking with Processing graphics.
+On this repo, you will find documentation of this project's exhibition at the Lubalin Gallery as part of the Menschel Fellowship exhibit, and in the Civic Projects Lab as part of miliLab's Digital Movement exhibit. You will also find set up instructions and resources such that you can build similar projects which utilize Kinect's bodytracking functionality with Processing, a graphics library.
 
 Table of Contents
 - [Menschel Fellowship Exhibition](https://github.com/lhrhode/menschel-bodytracking/blob/main/README.md#menschel-fellowship-exhibition)
