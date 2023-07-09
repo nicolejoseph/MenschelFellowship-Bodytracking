@@ -3,7 +3,7 @@
 
 This project came out of a desire to explore the overlap between dance, bodytracking technology, and mobility. We investigated the current use of technology in performance and storytelling, which resulted in an interactive installation that connected bodytracking and generative visual graphics. This work was supported by the Cooper Union's Benjamin Menschel Fellowship Program.
 
-On this repo, you will find documentation of this project's exhibition at the Lubalin Gallery as part of the Menschel Fellowship exhibit, and in the Civic Projects Lab as part of miliLab's Digital Movement exhibit. You will also find set up instructions and resources such that you can build similar projects which utilize Kinect's bodytracking functionality with Processing, a graphics library.
+On this repo, you will find documentation of the project's exhibition at the Lubalin Gallery as part of the Menschel Fellowship exhibit, and in the Civic Projects Lab as part of miliLab's Digital Movement exhibit. You will also find set up instructions and resources such that you can build similar projects which utilize Kinect's bodytracking functionality with Processing, a graphics library and IDE based on the Java programming language.
 
 Table of Contents
 - [Menschel Fellowship Exhibition](https://github.com/lhrhode/menschel-bodytracking/blob/main/README.md#menschel-fellowship-exhibition)
@@ -13,7 +13,7 @@ Table of Contents
 [![github_minah](https://user-images.githubusercontent.com/71452451/232954180-97ce6a55-4aaa-4298-8c01-09a1279b4769.png)](https://www.youtube.com/watch?v=XrtT-O2CED0)
 
 # Menschel Fellowship Exhibition
-[The Benjamin Menshel Fellowship Program](https://cooper.edu/academics/research-fellowships/benjamin-menschel-fellowship-program) supports interdisciplinary work in the fields of art, architecture, design, and engineering and funds students who propose scholarly, independent projects to expore creative inquiry in their education endeavors at The Cooper Union.
+[The Benjamin Menshel Fellowship Program](https://cooper.edu/academics/research-fellowships/benjamin-menschel-fellowship-program) supports interdisciplinary work in the fields of art, architecture, design, and engineering and funds students who propose scholarly, independent projects to expore creative inquiry in their educational endeavors at The Cooper Union.
 
 The program culminates in an annual exhibition and gala opening. Each project contributes to a [catalog](https://cooper.edu/academics/research-fellowships/menschel-catalogs). Our project is recorded in the [2023 Menschel Fellowship Exhibition Catalog](https://cooper.edu/sites/default/files/uploads/assets/development/menschel%20catalogue_ML.pdf).
 ![Copy of Menschel_Exhibition076](https://user-images.githubusercontent.com/71452451/231519182-ca767fbe-f395-4e59-a82e-5c7bd3d6bc57.jpg)
@@ -30,9 +30,9 @@ Much of this work was supported by Cooper Union's [miliLab](http://faculty.coope
 # Processing and Kinect V2 Set Up
 [Processing](https://processing.org/) is a software sketchbook and language based on Java commonly used by visual artists and also in the generative art world. The language has a library for using Microsoft's Kinect V2. The best tutorial to follow to set up Processing with Kinect is on [Mike Bridge's blog](https://mikebridge.github.io/post/kinect-and-processing/). This tutorial uses [Thomas Sanches Lengeling's Processing Library for using the Kinect V2](https://github.com/ThomasLengeling/KinectPV2).
 
-Here we will go over the tldr of how to set up Processing and start using Kinect V2 though it is worth checking out the embedded links.
+Here, we will go over the tldr of how to set up Processing and start using the Kinect V2 (though, it is worth checking out the embedded links!).
 
-It is important to note that the Kinect V2 is out of production and the only way to get it is second hand on Ebay or on Amazon
+It is important to note that the Kinect V2 is out of production and the only way to get it is second hand via Ebay or Amazon.
 
 **Requirements:**
 - Window 10
@@ -40,8 +40,8 @@ It is important to note that the Kinect V2 is out of production and the only way
 - Kinect SDK 2.0
 - Processing 3.0
 
-First step is to download and install [Processing 3.0](https://processing.org/releases).
-Then, once you have access to the necessary hardware (the Kinect for XBox One V2 and its adapter), download the [Kinect for Windows SDK 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561). Once the Kinect for Windows SDK has completed installing, connect the Kinect sensor to a power outlet and then plug the USB cable to your computer. The necessary drivers should begin installation automatically. Then use the Kinect for Windows SDK to ensure, your Kinect is detected and works properly.
+The first step is to download and install [Processing 3.0](https://processing.org/releases).
+Then, once you have access to the necessary hardware (the Kinect for XBox One V2 and its adapter), download the [Kinect for Windows SDK 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561). After the Kinect for Windows SDK has finished installing, connect the Kinect sensor to a power outlet and plug the USB cable to your computer. The necessary drivers should begin installation automatically. Then, use the Kinect for Windows SDK to ensure your Kinect is detected and works properly.
 
 Once your Kinect is set up, launch Processing from processing.exe. From the _Sketch_, navigate from _Import Library_ to _Add Library_ and search for _Kinect v2 for Processing_.
 
