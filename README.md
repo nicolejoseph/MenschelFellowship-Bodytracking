@@ -45,5 +45,5 @@ Then, once you have access to the necessary hardware (the Kinect for XBox One V2
 
 Once your Kinect is set up, launch Processing from processing.exe. From the _Sketch_, navigate from _Import Library_ to _Add Library_ and search for _Kinect v2 for Processing_.
 
-[Thomas Lengeling](https://github.com/ThomasLengeling/KinectPV2) who wrote the KinectPV2 library gives some usefull examples [here](https://codigogenerativo.com/code/kinectpv2-k4w2-processing-library/).
+[Thomas Lengeling,](https://github.com/ThomasLengeling/KinectPV2) who wrote the KinectPV2 library, gives some useful examples of the Kinect's bodytracking functionality [here.](https://codigogenerativo.com/code/kinectpv2-k4w2-processing-library/).
 
