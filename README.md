@@ -28,7 +28,7 @@ Much of this work was supported by Cooper Union's [miliLab](http://faculty.coope
 
 
 # Processing and Kinect V2 Set Up
-[Processing](https://processing.org/) is a software sketchbook and language based on Java commonly used by visual artists and also in the generative art world. The language has a library for using Microsoft's Kinect V2. The best tutorial to follow to set up Processing with Kinect is on [Mike Bridge's blog](https://mikebridge.github.io/post/kinect-and-processing/). This tutorial uses [Thomas Sanches Lengeling's Processing Library for using the Kinect V2](https://github.com/ThomasLengeling/KinectPV2).
+[Processing](https://processing.org/) is a software sketchbook and language based on Java that's commonly used by visual artists and also in the generative art world. The language has a library for using Microsoft's Kinect V2. The best tutorial to follow to set up Processing with Kinect is on [Mike Bridge's blog](https://mikebridge.github.io/post/kinect-and-processing/). This tutorial uses [Thomas Sanches Lengeling's Processing Library for using the Kinect V2](https://github.com/ThomasLengeling/KinectPV2).
 
 Here, we will go over the tldr of how to set up Processing and start using the Kinect V2 (though, it is worth checking out the embedded links!).
 
