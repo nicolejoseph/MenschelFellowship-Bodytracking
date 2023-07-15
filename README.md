@@ -6,7 +6,7 @@ This project came out of a desire to explore the overlap between dance, bodytrac
 On this repo, you will find documentation of the project's exhibition at the Lubalin Gallery as part of the Menschel Fellowship exhibit, and in the Civic Projects Lab as part of miliLab's Digital Movement exhibit. You will also find set up instructions and resources such that you can build similar projects which utilize Kinect's bodytracking functionality with Processing, a graphics library and IDE based on the Java programming language.
 
 Table of Contents
-- [Menschel Fellowship Exhibition](https://github.com/lhrhode/menschel-bodytracking/blob/main/README.md#menschel-fellowship-exhibition)
+- [Menschel Fellowship Exhibition](https://github.com/nicolejoseph/MenschelFellowship-Bodytracking/blob/main/README.md#menschel-fellowship-exhibition)
 - [Digital Movement Exhibition](https://github.com/lhrhode/menschel-bodytracking/blob/main/README.md#digital-movement-exhibition)
 - [Processing and Kinect V2 Set Up](https://github.com/lhrhode/menschel-bodytracking/blob/main/README.md#processing-and-kinect-v2-set-up) 
 
