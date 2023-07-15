@@ -7,8 +7,8 @@ On this repo, you will find documentation of the project's exhibition at the Lub
 
 Table of Contents
 - [Menschel Fellowship Exhibition](https://github.com/nicolejoseph/MenschelFellowship-Bodytracking/blob/main/README.md#menschel-fellowship-exhibition)
-- [Digital Movement Exhibition](https://github.com/lhrhode/menschel-bodytracking/blob/main/README.md#digital-movement-exhibition)
-- [Processing and Kinect V2 Set Up](https://github.com/lhrhode/menschel-bodytracking/blob/main/README.md#processing-and-kinect-v2-set-up) 
+- [Digital Movement Exhibition](https://github.com/nicolejoseph/MenschelFellowship-Bodytracking/blob/main/README.md#digital-movement-exhibition)
+- [Processing and Kinect V2 Set Up](https://github.com/nicolejoseph/MenschelFellowship-Bodytracking/blob/main/README.md#processing-and-kinect-v2-set-up) 
 
 [![github_minah](https://user-images.githubusercontent.com/71452451/232954180-97ce6a55-4aaa-4298-8c01-09a1279b4769.png)](https://www.youtube.com/watch?v=XrtT-O2CED0)
 
